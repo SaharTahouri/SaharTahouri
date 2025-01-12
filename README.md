@@ -9,11 +9,6 @@ I’m passionate about building innovative web solutions and continually improvi
 - Backend: PHP (well, not as perfect as my frontend skills)
 - Other: Responsive Design, Git
 
-## Contact Me
-
-- GitHub: [Sahar Tahouri](https://github.com/SaharTahouri)
-- Email: sahartahourii@gmail.com
-
 ## Open to Work
 
 I’m open to new challenges and collaborations! Let’s build something great together.  

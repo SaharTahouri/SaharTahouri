@@ -11,8 +11,8 @@ I’m passionate about building innovative web solutions and continually improvi
 
 ## Contact Me
 
-GitHub: [Sahar Tahouri](https://github.com/SaharTahouri)
-Email: sahartahourii@gmail.com
+- GitHub: [Sahar Tahouri](https://github.com/SaharTahouri)
+- Email: sahartahourii@gmail.com
 
 ## Open to Work
 

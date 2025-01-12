@@ -5,9 +5,9 @@ I’m passionate about building innovative web solutions and continually improvi
 
 ## Skills
 
-Frontend: HTML, CSS, Bootstrap, SASS, JavaScript, JSON, JQuery
-Backend: PHP (well, not as perfect as my frontend skills)
-Other: Responsive Design, Git
+- Frontend: HTML, CSS, Bootstrap, SASS, JavaScript, JSON, JQuery
+- Backend: PHP (well, not as perfect as my frontend skills)
+- Other: Responsive Design, Git
 
 ## Contact Me
 
